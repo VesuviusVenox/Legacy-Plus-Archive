@@ -1,0 +1,11 @@
+release-date:1257879900001
+compile-date:1257879638000
+launch-method:classic
+launch-method-link:
+url:https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/f1880e914e0350c61c4c63d1bd4cdf368c5150e7/Classic%20Plus%20Archive/0.4.jar
+proxy-args: -Dhttp.proxyHost=betacraft.uk 
+other-name:
+protocolVersion:classic_7
+macos-mousefix:true
+resize-applet:false
+file-ver:1
