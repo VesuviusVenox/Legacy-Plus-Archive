@@ -7,5 +7,5 @@ proxy-args: -Dhttp.proxyHost=betacraft.uk
 other-name:
 protocolVersion:classic_7
 macos-mousefix:true
-resize-applet:false
+resize-applet:true
 file-ver:1
