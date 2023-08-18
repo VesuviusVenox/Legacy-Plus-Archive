@@ -3,7 +3,7 @@ compile-date:1257879638000
 launch-method:indev
 launch-method-link:
 url:https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/594b5877c8139239d1d453e4cdf0a14eaa897f97/Infdev%20Plus%20Archive/0.1.jar
-proxy-args: -Dhttp.proxyHost=betacraft.uk 
+proxy-args: 
 other-name:
 protocolVersion:indev
 macos-mousefix:true
