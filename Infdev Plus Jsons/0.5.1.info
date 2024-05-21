@@ -1,0 +1,11 @@
+release-date:1257879900001
+compile-date:1257879638000
+launch-method:indev
+launch-method-link:
+url:https://github.com/VesuviusVenox/Legacy-Plus-Archive/raw/4313d57a4bf62d45ae13082b11da28717a5ff2d6/Infdev%20Plus%20Archive/0.5.1.jar
+proxy-args: -Dhttp.proxyHost=betacraft.uk 
+other-name:
+protocolVersion:indev
+macos-mousefix:true
+resize-applet:false
+file-ver:1
